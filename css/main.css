@@ -1,0 +1,86 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, serif;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 57px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 69px;
+    margin-bottom: 83px;
+}
+
+img {
+    width: 350px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 41px;
+    margin-top: 59px;
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 49px;
+    margin-bottom: 17px;
+    font-size: 28px;
+    line-height: 32px;
+    text-align: left;
+
+}
+
+p {
+    font-size: 18px;
+    line-height: 21px;
+    text-align: justify;
+    margin: 0;
+}
+
+ul {
+    width: 685px;
+    margin: 0;
+    padding: 0;
+    padding-left: 16px;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: justify;
+
+}
+
+form {
+    margin-top: 0;
+    margin-bottom: 105px;
+}
+
+input {
+    width: 429px;
+    height: 80px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-size: 30px;
+    line-height: 34px;
+    padding:22px 25px 24px 25px ;
+    margin-top: 32px;
+}
+
+button {
+    width: 429px;
+    height: 80px;
+    background: #008968;
+    border-radius: 20px;
+    font-size: 30px;
+    line-height: 34px;
+    color: #FFFFFF;
+    padding: 23px 140px;
+    margin-top: 32px;
+    border: 0;
+}
